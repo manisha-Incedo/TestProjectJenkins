@@ -1,4 +1,4 @@
-# this is my base image
+# our base image
 FROM alpine:3.5
 
 # Install python and pip
